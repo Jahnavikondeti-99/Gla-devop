@@ -1,2 +1,2 @@
 # Gla-devop
-A sample java web application
+A sample java web application(test case)
